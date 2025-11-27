@@ -1,0 +1,27 @@
+/* Pasta Site Internet CSS */
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-color: #ebedff;
+	font-family: Arial;
+	list-style: none;
+	text-decoration: none;
+}
+
+table{	
+	text-decoration: none;
+}
+
+textarea{
+	resize: none;
+}
+
+p{
+	text-align:justify;
+	text-indent: 35px;
+	
+}

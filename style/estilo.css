@@ -1,0 +1,24 @@
+/* Pasta Site Internet CSS */
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-color: #49ffb9;
+	font-family: 'Times New Roman';
+	list-style: none;
+	text-decoration: none;
+	margin: 1cm 3cm;
+
+}
+
+td {
+	text-align: center;
+}
+
+table {
+	text-decoration: none;
+	width: 60%;
+}
